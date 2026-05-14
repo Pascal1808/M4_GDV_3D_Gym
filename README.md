@@ -2,4 +2,8 @@
 
 
 ### je kunt door de poort gaan en op de stapel houten boxen lopen of springen
-![png](M4_GDV_GYM_V1.png)
+![png](M4-GDV-3D-Gym-V1.png)
+
+## Les 2
+### de cubes kunnen bewegen en springen
+![gif](MovingCubes2.gif)
