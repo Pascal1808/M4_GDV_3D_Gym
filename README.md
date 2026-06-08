@@ -7,3 +7,7 @@
 ## Les 2
 ### de cubes kunnen bewegen en springen
 ![gif](MovingCubes2.gif)
+
+## Les 3
+### de speler is geanimeerd
+![gif](CharacterMoving.gif)
