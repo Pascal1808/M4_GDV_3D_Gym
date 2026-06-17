@@ -11,3 +11,11 @@
 ## Les 3
 ### de speler is geanimeerd
 ![gif](CharacterMoving.gif)
+
+## Les 4
+### CharacterController
+![gif](CharacterController.gif)
+
+## Les 5
+### Camera Pan en Tilt + Overview
+![gif](Cammera.gif)
