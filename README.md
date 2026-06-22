@@ -14,7 +14,7 @@
 
 ## Les 4
 ### CharacterController
-![gif](CharacterController.gif)
+![gif](trap.gif)
 
 ## Les 5
 ### Camera Pan en Tilt + Overview
